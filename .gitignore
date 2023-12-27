@@ -14,7 +14,7 @@ target/
 
 ### sonradan eklenenler
 raporlar/
-runners/
+##runners/
 TestOutput/
 
 
