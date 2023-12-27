@@ -11,8 +11,11 @@ target/
 *.iws
 *.iml
 *.ipr
+
+### sonradan eklenenler
 raporlar/
 runners/
+TestOutput/
 
 
 ### Eclipse ###
